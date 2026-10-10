@@ -1,0 +1,13 @@
+<svg width="240" height="120" viewBox="0 0 240 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g transform="translate(8,18)">
+  <rect x="34" y="18" width="44" height="44" rx="4" fill="#fff"/>
+  <path d="M56 18V62" stroke="#D9E8FF" stroke-width="2"/>
+  <path d="M34 40H78" stroke="#D9E8FF" stroke-width="2"/>
+  <path d="M0 34H27" stroke="#35A9FF" stroke-width="4" stroke-linecap="round"/>
+  <path d="M4 22H19" stroke="#35A9FF" stroke-width="4" stroke-linecap="round"/>
+  <path d="M7 46H30" stroke="#35A9FF" stroke-width="4" stroke-linecap="round"/>
+  <path d="M14 58H26" stroke="#35A9FF" stroke-width="4" stroke-linecap="round"/>
+</g>
+<text x="95" y="52" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="800">Mandadex</text>
+<text x="95" y="76" fill="#D3DDEF" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500">El mandado más rápido y fácil</text>
+</svg>
